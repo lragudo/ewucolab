@@ -3,6 +3,16 @@ title: CoLab
 hide_title: true
 excerpt: lorem-ipsum
 sections:
+  - title: CoLab at EWU Innovation Center
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    content: >
+      CoLab is a place for students to study, work on projects, meet with
+      faculty, meet with community members, and attend events. CoLab is
+      interdisciplinary and experiential. CoLab is inclusive and equitable.
+      CoLab is lexible and adaptive. CoLab will evolve as need evolves.
+    actions: []
+    type: section_content
   - title: About
     section_id: about
     subtitle: ''
@@ -45,15 +55,5 @@ sections:
     col_number: three
     actions: []
     type: section_posts
-  - title: CoLab at EWU Innovation Center
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    content: >
-      CoLab is a place for students to study, work on projects, meet with
-      faculty, meet with community members, and attend events. CoLab is
-      interdisciplinary and experiential. CoLab is inclusive and equitable.
-      CoLab is lexible and adaptive. CoLab will evolve as need evolves.
-    actions: []
-    type: section_content
 template: advanced
 ---
