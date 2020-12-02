@@ -20,14 +20,10 @@ sections:
         image: images/blue-triceratops.png
       - title: Collab
         content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          The ability to collaborate helps student take projects to whole new
+          levels. If you are needing help its never been easier to find other
+          within your same skill set. Colab is a great location to build a team,
+          build a network, or build a friend group. 
         actions: []
         type: grid_item
     type: section_grid
