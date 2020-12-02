@@ -37,7 +37,7 @@ sections:
           build a network, or build a friend group. 
         actions: []
         type: grid_item
-        image: images/violet-mustard.png
+        image: images/blue-triceratops.png
       - title: Teach
         content: >-
           If you have information, skills, or expertise that needs to be shared
