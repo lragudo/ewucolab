@@ -17,5 +17,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/CoLabAboutBannerPNG 1.png
 template: advanced
 ---
