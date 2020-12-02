@@ -17,7 +17,7 @@ sections:
   - title: Events
     section_id: lorem-ipsum
     subtitle: ''
-    posts_number: 3
+    posts_number: 4
     col_number: three
     actions: []
     type: section_posts
