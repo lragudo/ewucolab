@@ -10,7 +10,7 @@ sections:
     is_numbered: false
     grid_items: []
     type: section_grid
-  - title: lorem-ipsum
+  - title: Events
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
