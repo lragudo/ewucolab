@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: CoLabEWU Innovation Center
+  - title: CoLab atEWU Innovation Center
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
