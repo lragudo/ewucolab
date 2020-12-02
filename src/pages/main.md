@@ -50,6 +50,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/Group(2).png
     type: section_grid
   - title: Events
     section_id: lorem-ipsum
