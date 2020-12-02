@@ -1,5 +1,5 @@
 ---
-title: EWU Diversity and Inclusion workshop
+title: EWU Diversity and Inclusion Workshop
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
