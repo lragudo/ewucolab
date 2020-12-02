@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: EWU Inov
+  - title: EWU Innovation
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
