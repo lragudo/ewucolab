@@ -26,6 +26,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
+        image: images/Group.png
     type: section_grid
   - title: Events
     section_id: lorem-ipsum
