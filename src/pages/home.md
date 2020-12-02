@@ -21,6 +21,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/blue-triceratops.png
     type: section_grid
   - title: Events
     section_id: events
