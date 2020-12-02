@@ -14,13 +14,6 @@ sections:
     actions: []
     type: section_content
     image: images/CoLabAboutBannerPNG 1.png
-  - title: Events
-    section_id: lorem-ipsum
-    subtitle: ''
-    posts_number: 4
-    col_number: two
-    actions: []
-    type: section_posts
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
@@ -28,5 +21,12 @@ sections:
     is_numbered: false
     grid_items: []
     type: section_grid
+  - title: Events
+    section_id: lorem-ipsum
+    subtitle: ''
+    posts_number: 4
+    col_number: two
+    actions: []
+    type: section_posts
 template: advanced
 ---
