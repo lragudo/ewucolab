@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: About
     section_id: about
-    subtitle: lorem-ipsum
+    subtitle: ''
     col_number: three
     is_numbered: false
     grid_items: []
