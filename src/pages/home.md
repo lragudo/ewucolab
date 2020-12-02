@@ -18,7 +18,7 @@ sections:
         actions: []
         type: grid_item
         image: images/blue-triceratops.png
-      - title: lorem-ipsum
+      - title: Collab
         content: >-
           ## Lorem ipsum
 
