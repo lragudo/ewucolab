@@ -39,6 +39,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/adorable-oak.png
     type: section_grid
   - title: Events
     section_id: events
