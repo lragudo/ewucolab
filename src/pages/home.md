@@ -28,7 +28,7 @@ sections:
           and a safe environment to seek out help. 
         actions: []
         type: grid_item
-        image: images/blue-triceratops.png
+        image: images/Group(1).png
       - title: Collab
         content: >-
           The ability to collaborate helps student take projects to whole new
