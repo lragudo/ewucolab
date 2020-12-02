@@ -13,7 +13,7 @@ sections:
       CoLab is lexible and adaptive. CoLab will evolve as need evolves.
     actions: []
     type: section_content
-    image: images/majestic-lavender.png
+    image: images/AboutBannerNoText.png
   - title: About
     section_id: about
     subtitle: ''
