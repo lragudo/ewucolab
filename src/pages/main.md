@@ -21,9 +21,11 @@ sections:
     is_numbered: false
     grid_items:
       - title: Learn
-        content: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        content: >-
+          Every student deserves the opportunity to develop there skills and
+          have access to information and guidance from industry professionals.
+          Colab is intended to provide students with any resource they may need
+          and a safe environment to seek out help. 
         actions: []
         type: grid_item
         image: images/Group.png
