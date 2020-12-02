@@ -45,7 +45,7 @@ sections:
     col_number: three
     actions: []
     type: section_posts
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
