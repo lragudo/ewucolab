@@ -26,6 +26,7 @@ sections:
           build a network, or build a friend group. 
         actions: []
         type: grid_item
+        image: images/unique-spinach.png
     type: section_grid
   - title: Events
     section_id: events
