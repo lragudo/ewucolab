@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: CoLab at the EWU Innovation Center
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       ## Lorem ipsum
 
