@@ -14,5 +14,12 @@ sections:
     actions: []
     type: section_content
     image: images/CoLabAboutBannerPNG 1.png
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    posts_number: 3
+    col_number: three
+    actions: []
+    type: section_posts
 template: advanced
 ---
