@@ -16,7 +16,7 @@ sections:
     image: images/CoLabAboutBannerPNG 1.png
   - title: About
     section_id: about
-    subtitle: lorem-ipsum
+    subtitle: lorem
     col_number: three
     is_numbered: false
     grid_items:
