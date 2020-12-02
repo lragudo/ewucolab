@@ -37,6 +37,7 @@ sections:
           build a network, or build a friend group. 
         actions: []
         type: grid_item
+        image: images/Group(1).png
       - title: lorem-ipsum
         content: >-
           ## Lorem ipsum
