@@ -38,7 +38,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Group(1).png
-      - title: lorem-ipsum
+      - title: Teach
         content: >-
           ## Lorem ipsum
 
