@@ -3,7 +3,7 @@ title: CoLab
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: lorem-ipsum
+  - title: About
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
