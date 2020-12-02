@@ -461,18 +461,6 @@ img {
   max-width: 100%;
 }
 
-/* Heading decoration */
-.line-top {
-  position: relative;
-
-  &:before {
-    border-left: 45px solid _palette(accent);
-    content: "";
-    display: block;
-    height: 3px;
-    margin-bottom: 0.83333rem;
-  }
-}
 
 /* Grid */
 .grid {
