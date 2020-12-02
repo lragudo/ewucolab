@@ -28,8 +28,8 @@ sections:
           and a safe environment to seek out help. 
         actions: []
         type: grid_item
-        image: images/blue-triceratops.png
-      - title: Collab
+        image: images/Group(1).png
+      - title: Collaborate
         content: >-
           The ability to collaborate helps student take projects to whole new
           levels. If you are needing help its never been easier to find other
@@ -37,7 +37,7 @@ sections:
           build a network, or build a friend group. 
         actions: []
         type: grid_item
-        image: images/violet-mustard.png
+        image: images/blue-triceratops.png
       - title: Teach
         content: >-
           If you have information, skills, or expertise that needs to be shared
