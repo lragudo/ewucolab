@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: CoLab
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
