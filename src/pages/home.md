@@ -4,7 +4,7 @@ hide_title: true
 excerpt: lorem-ipsum
 sections:
   - title: About
-    section_id: lorem-ipsum
+    section_id: about
     subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
