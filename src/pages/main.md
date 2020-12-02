@@ -14,7 +14,7 @@ sections:
     actions: []
     type: section_content
     image: images/CoLabAboutBannerPNG 1.png
-  - title: lorem-ipsum
+  - title: vents
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
