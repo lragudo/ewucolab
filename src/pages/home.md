@@ -27,7 +27,7 @@ sections:
         actions: []
         type: grid_item
         image: images/unique-spinach.png
-      - title: lorem-ipsum
+      - title: Teach
         content: >-
           ## Lorem ipsum
 
