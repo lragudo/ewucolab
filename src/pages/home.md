@@ -11,7 +11,7 @@ sections:
     grid_items: []
     type: section_grid
   - title: Events
-    section_id: lorem-ipsum
+    section_id: events
     subtitle: ''
     posts_number: 3
     col_number: three
