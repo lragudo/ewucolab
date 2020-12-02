@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 excerpt: lorem-ipsum
 sections:
-  - title: EWU Innovation Center
+  - title: CoLabEWU Innovation Center
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
