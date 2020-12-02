@@ -29,14 +29,11 @@ sections:
         image: images/unique-spinach.png
       - title: Teach
         content: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          If you have information, skills, or expertise that needs to be shared
+          Colab is the platform for you. If you have something worth sharing
+          then colab is happy to provide students with tools and a space capable
+          of presentation. Our students are the future so why not be taught by
+          the ones paving their success. 
         actions: []
         type: grid_item
         image: images/adorable-oak.png
