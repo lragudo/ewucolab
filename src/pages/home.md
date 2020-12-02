@@ -18,6 +18,18 @@ sections:
         actions: []
         type: grid_item
         image: images/blue-triceratops.png
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: section_grid
   - title: Events
     section_id: events
