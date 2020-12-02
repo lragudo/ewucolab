@@ -15,7 +15,7 @@ sections:
     type: section_content
     image: images/CoLabAboutBannerPNG 1.png
   - title: vents
-    section_id: lorem-ipsum
+    section_id: about
     subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
