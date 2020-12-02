@@ -7,14 +7,10 @@ sections:
     section_id: lorem-ipsum
     subtitle: ''
     content: >-
-      ## Lorem ipsum
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      CoLab is a place for students to study, work on projects, meet with
+      faculty, meet with community members, and attend events. CoLab is
+      interdisciplinary and experiential. CoLab is inclusive and equitable.
+      Colab is flexible and adaptive. CoLab will evolves as need evolves.
     actions: []
     type: section_content
     image: images/CoLabAboutBannerPNG 1.png
