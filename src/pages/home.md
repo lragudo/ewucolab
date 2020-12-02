@@ -5,7 +5,7 @@ excerpt: lorem-ipsum
 sections:
   - title: CoLab at EWU Innovation Center
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >
       CoLab is a place for students to study, work on projects, meet with
       faculty, meet with community members, and attend events. CoLab is
