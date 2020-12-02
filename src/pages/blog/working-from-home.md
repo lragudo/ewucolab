@@ -5,7 +5,6 @@ excerpt: >-
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: '2016-08-22'
-image: images/9.jpg
 template: post
 thumb_image: images/Screen Shot 2020-12-01 at 5.37.41 PM.png
 subtitle: '7:00pm'
