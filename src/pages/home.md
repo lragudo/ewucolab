@@ -1,7 +1,7 @@
 ---
-title: CoLab
+title: CoLab EWU
 hide_title: true
-excerpt: lorem-ipsum
+excerpt:
 sections:
   - title: CoLab at EWU Innovation Center
     section_id: colab

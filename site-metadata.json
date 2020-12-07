@@ -1,86 +1,86 @@
 {
-    "description": "A portfolio theme with a blog",
-    "color_scheme": "dark",
-    "accent_color": "blue",
-    "header": {
-        "title": "Exto",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/home",
-                "style": "link"
-            },
-            {
-                "label": "Events",
-                "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
-            }
-        ],
-        "logo_img": "images/Group 15.png"
-    },
-    "footer": {
-        "content": "",
-        "links": [
-            {
-                "label": "EWU Design",
-                "url": "https://www.ewu.edu/cstem/design/",
-                "style": "button",
-                "new_window": true
-            },
-            {
-                "label": "design@ewu.edu",
-                "url": "",
-                "style": "button",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
-            },
-            {
-                "label": "Catalyst Building Address, Spokane, WA",
-                "url": "lorem-ipsum",
-                "style": "button",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
-            }
-        ],
-        "has_social": false,
-        "social_links": [
-            {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon_class": "fa-instagram",
-                "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon_class": "fa-dribbble",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
-                "new_window": true
-            }
-        ]
-    },
-    "title": "Stackbit Exto Theme"
+  "description": "",
+  "color_scheme": "dark",
+  "accent_color": "blue",
+  "header": {
+    "title": "EWU CoLab",
+    "has_nav": true,
+    "nav_links": [
+      {
+        "label": "Home",
+        "url": "/",
+        "style": "link"
+      },
+      {
+        "label": "Events",
+        "url": "/blog/",
+        "style": "link"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact/",
+        "style": "link"
+      }
+    ],
+    "logo_img": "images/Group 15.png"
+  },
+  "footer": {
+    "content": "",
+    "links": [
+      {
+        "label": "EWU Design",
+        "url": "https://www.ewu.edu/cstem/design/",
+        "style": "button",
+        "new_window": true
+      },
+      {
+        "label": "design@ewu.edu",
+        "url": "",
+        "style": "button",
+        "icon_class": "lorem-ipsum",
+        "new_window": false,
+        "type": "action"
+      },
+      {
+        "label": "Catalyst Building Address, Spokane, WA",
+        "url": "lorem-ipsum",
+        "style": "button",
+        "icon_class": "lorem-ipsum",
+        "new_window": false,
+        "type": "action"
+      }
+    ],
+    "has_social": false,
+    "social_links": [
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/",
+        "style": "icon",
+        "icon_class": "fa-twitter",
+        "new_window": true
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/",
+        "style": "icon",
+        "icon_class": "fa-instagram",
+        "new_window": true
+      },
+      {
+        "label": "Dribbble",
+        "url": "https://dribbble.com/",
+        "style": "icon",
+        "icon_class": "fa-dribbble",
+        "new_window": true
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/",
+        "style": "icon",
+        "icon_class": "fa-linkedin",
+        "new_window": true
+      }
+    ]
+  },
+  "title": "Stackbit Exto Theme"
 }
