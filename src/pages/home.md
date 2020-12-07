@@ -5,15 +5,13 @@ excerpt: lorem-ipsum
 sections:
   - title: CoLab at EWU Innovation Center
     section_id: colab
-    subtitle: ""
-    content: >
-      CoLab is a place for students to study, work on projects, meet with
-      faculty, meet with community members, and attend events. CoLab is
-      interdisciplinary and experiential. CoLab is inclusive and equitable.
-      CoLab is lexible and adaptive. CoLab will evolve as need evolves.
+    subtitle: Build relationships, Build Experience.
+    content: >-
+      CoLab at the EWU Innovation Center is a place for students to study, work on projects, meet with faculty, meet with community members, and attend events. CoLab is interdisciplinary and experiential. CoLab is inclusive and equitable. CoLab is flexible and adaptive. CoLab will evolve as need evolves. Contact the Department of Design at design@ewu.edu with questions and suggestions.
+
     actions: []
     type: section_content
-    image: images/majestic-lavender.png
+    image: images/AboutBannerNoText.png
   - title: About
     section_id: about
     subtitle: ""
