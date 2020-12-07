@@ -8,12 +8,12 @@
     "nav_links": [
       {
         "label": "Home",
-        "url": "/home",
+        "url": "/home/",
         "style": "link"
       },
       {
         "label": "Events",
-        "url": "/blog/",
+        "url": "/events/",
         "style": "link"
       },
       {
