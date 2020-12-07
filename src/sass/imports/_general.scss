@@ -19,7 +19,7 @@ body {
 
 a {
   border-bottom: 1px solid currentColor;
-  color: _palette(accent);
+  color: _palette(accent-yellow);
   text-decoration: none;
   -webkit-transition: .3s ease;
   transition: .3s ease;
@@ -52,6 +52,7 @@ h1 {
 
 h2 {
   font-size: 3em;
+  text-transform: uppercase;
 }
 
 h3 {
@@ -378,7 +379,7 @@ button {
 
     &:before,
     &:after {
-      border: 2px solid _palette(accent);
+      border: 2px solid #ed9700;
       box-sizing: border-box;
       content: "";
       height: 32%;

@@ -39,6 +39,10 @@
     color: #fff;
   }
 
+  h2{
+    color: _palette(accent-yellow);
+  }
+
   a:not(.button):hover,
   a:not(.button):focus {
     color: _palette(charcoal-light-60);
@@ -153,7 +157,7 @@
   input[type="reset"],
   .button {
     border-color: _palette(accent-blue);
-    color: _palette(accent-blue);
+    color: _palette(accent-yellow);
 
     &:hover,
     &:focus,
@@ -169,7 +173,7 @@
   .view-all-button:before,
   .view-all-button:after,
   .line-top:before {
-    border-color: _palette(accent-blue);
+    border-color: _palette(accent-yellow);
   }
 }
 
